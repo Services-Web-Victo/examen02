@@ -1,0 +1,17 @@
+.ligne-citation {
+    padding-bottom: 20px;
+}
+.icone-supprimer {
+    margin-left: 10px;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.icone-supprimer:hover {
+    color: rgba(63, 63, 90, 0.75);
+}
+
+.ligne-auteur {
+    display: flex;
+    justify-content: flex-end;
+}
